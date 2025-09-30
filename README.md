@@ -28,13 +28,13 @@ python brew_gui.py
 
 ## Building the Application (Optional)
 
-[1]. Install pyinstaller
+1. Install pyinstaller
 
 ```bash
 pip install pyinstaller
 ```
 
-[2]. Run the build command from project directory
+2. Run the build command from project directory
 
 ```bash
 pyinstaller --noconsole --onefile --name "Brew GUI" brew_gui.py
